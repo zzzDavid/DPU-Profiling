@@ -1,0 +1,3 @@
+/home/root/niansong/auto_deploy/utils/build/CMakeFiles/rebuild_cache.dir
+/home/root/niansong/auto_deploy/utils/build/CMakeFiles/latency.dir
+/home/root/niansong/auto_deploy/utils/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/dputils.h
+opencv2/opencv.hpp
+-
+
+/home/root/niansong/auto_deploy/utils/src/latency.cpp
+dnndk/dnndk.h
+-
+dputils.h
+/home/root/niansong/auto_deploy/utils/src/dputils.h
+opencv2/opencv.hpp
+-
+

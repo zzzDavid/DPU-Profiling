@@ -5,7 +5,7 @@ from time import sleep
 from tqdm import tqdm
 
 
-latency_binary = '/home/root/niansong/auto_deploy/utils/build/latency'
+latency_binary = './utils/build/latency'
 
 
 def run(so_name='libdpumodelfpga10.so', time=1000):
